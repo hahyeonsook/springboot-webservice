@@ -1,0 +1,2 @@
+com/hyeonsook/spring/springboot/web/HelloControllerTest.java
+ com.hyeonsook.spring.springboot.web.HelloControllerTest
